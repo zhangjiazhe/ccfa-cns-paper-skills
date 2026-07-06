@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figure Evidence Planner"
+  short_description: "Align claims figures panels and evidence"
+  default_prompt: "Use $figure-evidence-planner to map each figure panel to the manuscript claim it supports."

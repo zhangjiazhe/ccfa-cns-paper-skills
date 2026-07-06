@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verified Source Corpus"
+  short_description: "Build verified paper source corpora"
+  default_prompt: "Use $verified-source-corpus to build a verified source corpus for this manuscript."

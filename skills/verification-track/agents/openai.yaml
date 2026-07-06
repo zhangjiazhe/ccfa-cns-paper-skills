@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verification Track"
+  short_description: "Claim citation and evidence verification"
+  default_prompt: "Use $verification-track to verify claims, citations, figures, and source support before submission."

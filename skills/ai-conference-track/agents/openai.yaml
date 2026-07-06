@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Conference Track"
+  short_description: "CCF-A and AI venue paper workflow"
+  default_prompt: "Use $ai-conference-track to plan, draft, compress, or rebut an AI top-conference paper."

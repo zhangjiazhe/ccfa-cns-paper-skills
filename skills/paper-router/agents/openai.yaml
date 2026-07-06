@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Router"
+  short_description: "Route CCFA AI and CNS paper work"
+  default_prompt: "Use $paper-router to decide whether this project should follow the AI conference or CNS journal workflow."

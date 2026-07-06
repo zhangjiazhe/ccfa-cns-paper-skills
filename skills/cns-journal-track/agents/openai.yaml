@@ -1,0 +1,4 @@
+interface:
+  display_name: "CNS Journal Track"
+  short_description: "Nature Science Cell manuscript workflow"
+  default_prompt: "Use $cns-journal-track to plan or revise a Nature, Science, Cell, or subjournal manuscript."
