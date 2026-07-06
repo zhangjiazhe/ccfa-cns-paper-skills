@@ -82,6 +82,12 @@ Validation date: 2026-07-06.
 - A temporary local validation environment was used because the base Python environment did not include `PyYAML`.
 - The installed skill files were checked for template residue such as `TODO`, `[TODO]`, `Replace with`, and `Structuring This Skill`.
 
+## License And Attribution
+
+- This repository is released under the MIT License.
+- Upstream attribution and third-party license notes are recorded in `NOTICE.md`.
+- Venue and publisher names are used descriptively. This repository is not affiliated with, endorsed by, or sponsored by Nature, Science, Cell, or any listed conference.
+
 ## Restart
 
 Restart Codex after installation so the new skills are picked up.

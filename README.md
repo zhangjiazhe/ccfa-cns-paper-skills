@@ -54,3 +54,11 @@ This integration draws design ideas from:
 - https://github.com/SNL-UCSB/paper-writing-skill
 - https://github.com/serenakeyitan/citation-check-skill
 - https://github.com/zhangjiazhe/academic-research-skills
+
+## License And Attribution
+
+This repository is released under the MIT License. See [`LICENSE`](LICENSE).
+
+Upstream attribution, third-party license notes, and trademark/affiliation disclaimers are recorded in [`NOTICE.md`](NOTICE.md).
+
+This repository is an integration and rewrite for a CCFA/CNS workflow. It is not a verbatim mirror of the upstream repositories.

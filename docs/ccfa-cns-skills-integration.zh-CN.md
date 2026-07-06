@@ -88,6 +88,12 @@ Use $verification-track to verify every factual claim in this draft against the 
 - 因基础 Python 环境缺少 `PyYAML`，校验时使用了临时本地 validation environment。
 - 已检查 skill 文件中没有模板残留，例如 `TODO`、`[TODO]`、`Replace with`、`Structuring This Skill`。
 
+## 许可与归因
+
+- 本仓库使用 MIT License 发布。
+- 上游来源、第三方许可说明和归因信息记录在 `NOTICE.md`。
+- Nature、Science、Cell 以及各会议/出版方名称仅用于描述投稿场景和写作流程；本仓库不代表这些期刊、会议、出版方或组织，也未获得其背书或赞助。
+
 ## 重启说明
 
 安装或更新 skills 后，需要重启 Codex，新的 skills 才会被当前会话识别。
